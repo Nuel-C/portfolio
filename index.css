@@ -1,0 +1,70 @@
+body{
+    background-image: linear-gradient(
+        to bottom right,rgb(23, 113, 177),rgb(231, 231, 220)
+    );
+}
+.j{
+    background-image: url('./images/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: right;
+}
+.r{
+    margin-top: 2%;
+}
+#uuu{
+    padding-top: 0%;
+}
+.ddd{
+    height: 10rem;
+}
+#f{
+    height: 70px;
+
+}
+.g{
+    border: 20px solid black;
+    /* background-color: rgba(223, 221, 152, 0.68); */
+    margin-top: 2%;
+    background-image: linear-gradient(
+        to bottom right,rgb(23, 113, 177),rgb(231, 231, 220)
+    );
+}
+.jumbotron{
+    text-align: center;
+    background-color: white;
+}
+footer{
+    text-align: center;
+}
+#join{
+    color: red;
+}
+.btn-sucess{
+    background-color: green;
+}
+#lang{
+    text-align: center;
+}
+#github{
+    border: 1px solid grey;
+    padding-bottom: 5%;
+}
+#git{
+    margin-top: 3%;
+    height: 3rem;
+    width: 3rem;
+}
+
+@media only screen and (max-width: 700px) {
+.col-sm-2{
+    padding-left: 45%;
+}
+form{
+    visibility: hidden;
+}
+ }
+
+
+
+ 
