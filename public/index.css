@@ -47,6 +47,7 @@ footer{
     text-align: center;
 }
 #github{
+    margin-top: 5%;
     border: 1px solid grey;
     padding-bottom: 5%;
 }
