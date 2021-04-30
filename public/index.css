@@ -6,8 +6,9 @@ body{
 .j{
     background-image: url('./images/img2.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 100%;
     background-position: right;
+    margin-top: 0%;
 }
 .r{
     margin-top: 2%;
